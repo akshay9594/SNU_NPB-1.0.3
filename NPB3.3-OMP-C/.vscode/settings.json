@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "npbparams.h": "c",
+        "type.h": "c"
+    }
+}
