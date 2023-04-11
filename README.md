@@ -8,18 +8,18 @@ This repository contains the Serial, OpenMP and OpenCL versions of the benchmark
 
 There are in total 10 benchmarks in this suite:
 ### Five kernels
-IS - Integer Sort, random memory access
-EP - Embarrassingly Parallel
-CG - Conjugate Gradient, irregular memory access and communication
-MG - Multi-Grid on a sequence of meshes, long- and short-distance communication, memory intensive
-FT - discrete 3D fast Fourier Transform, all-to-all communication
+> - IS - Integer Sort, random memory access
+> - EP - Embarrassingly Parallel
+> - CG - Conjugate Gradient, irregular memory access and communication
+> - MG - Multi-Grid on a sequence of meshes, long- and short-distance communication, memory intensive
+> - FT - discrete 3D fast Fourier Transform, all-to-all communication
 
 ### Three pseudo applications
-BT - Block Tri-diagonal solver
-SP - Scalar Penta-diagonal solver
-LU - Lower-Upper Gauss-Seidel solver
+> - BT - Block Tri-diagonal solver
+> - SP - Scalar Penta-diagonal solver
+> - LU - Lower-Upper Gauss-Seidel solver
 
 ### Benchmarks for unstructured computation, parallel I/O, and data movement
 
-UA - Unstructured Adaptive mesh, dynamic and irregular memory access
-DC - Data Cube
+> - UA - Unstructured Adaptive mesh, dynamic and irregular memory access
+> - DC - Data Cube
